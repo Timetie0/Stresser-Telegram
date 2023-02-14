@@ -2,6 +2,8 @@
 
 https://user-images.githubusercontent.com/118996778/218779957-cc8c5d94-f00e-40cc-81c6-28cde46ce147.mp4
 
+#
+
 💥 For Sale! Advanced DDOS Bot Telegram + API 💥
 
 〡Bot + Api (PACKAGE)
