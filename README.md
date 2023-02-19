@@ -4,6 +4,14 @@ https://user-images.githubusercontent.com/118996778/218779957-cc8c5d94-f00e-40cc
 
 #
 
+- [x] Attack System
+- [x] Plans System
+- [x] License System
+- [x] Api System (+10$)
+- [x] Ban System
+- [x] User System
+- [x] Database (Mysql)
+
 💥 For Sale! Advanced DDOS Bot Telegram + API 💥
 
 〡Bot + Api (PACKAGE)
